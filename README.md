@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Ricardo Silva <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 
-**`Student/Aspiring Software Developer`**  
+**`Student/Aspiring Software Engineer`**  
 
 I'm an Electrical and Computer Engineering student with a passion for software development and programming. My goal is to become a professional software developer, specializing in backend development for applications.  
 To achieve this objective, I've been actively engaged in developing personal projects aimed at enhancing my skills and knowledge.
