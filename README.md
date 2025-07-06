@@ -6,8 +6,7 @@
 
 `Software Engineer`
 
-Hi there! I'm **Ricardo Silva**, a Backend Software Engineer with a passion for clean and efficient code, though there's still a lot be to learned.  
-Outside the programming world, I enjoy anime, chess, and volleyball.  
+Hi there! I'm **Ricardo Silva**, a Backend Software Engineer with a passion for clean and efficient code, though there's still a lot be to learned. Outside the programming world, I enjoy anime, chess, and volleyball.  
 I'm currently wrapping up my Master's Thesis in Electrical and Computer Engineering and gearing up for my first full-time role in software development.
 
 Feel free to explore some of my projects below!
