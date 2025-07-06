@@ -1,37 +1,20 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Ricardo+Silva;Aspiring+Backend+Engineer;Lover+of+Java%2C+Python+and+Coffee" alt="Typing SVG" />
-</p>
-
----
-
-### 👋 About Me
-
-Hi there! I'm **Ricardo**, an Electrical and Computer Engineering student passionate about backend development and clean code.  
-Currently focused on learning **Java**, **Spring Boot**, and **DevOps tools** as I work on personal projects and prep for professional work.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjlna2c2ZG40dWowZWhzNnZ5NXVxOThjN3Zsa3MzeG00NWh4bWZzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ThVBdkPArGvauta28t/giphy.gif" alt="Monkey Developer" width="250" />
-</p>
-
-
----
-
-### 🐒 Just Vibes
-
-<p align="center">
-  <img src="https://media.tenor.com/BBLYF9vToEwAAAAC/monkey-developer.gif" alt="Monkey Developer" width="250" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Tektur&weight=700&size=50&pause=1000&color=F7F7F7&width=1000&lines=Greetings%2C+wanderer.+The+stars+guided+you+here!" alt="Typing SVG" />
+  </a>
 </p>
 
 
 
+### About Me
 
+`Software Engineer`
+
+Hi there! I'm **Ricardo Silva**, a Backend Software Engineer passionate about programming and many other things like anime, chess, and volleyball.  
+Currently finishing my Master's Thesis in Electrical and Computer Engineering and just about to start my very first SWE job.
 
 ---
-<h3>Languages</h3>
+### Technologies and Tools
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-0B1D51?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-0B1D51?style=for-the-badge&logo=python&logoColor=white" />
@@ -59,6 +42,8 @@ Currently focused on learning **Java**, **Spring Boot**, and **DevOps tools** as
   <img alt="Azure" src="https://img.shields.io/badge/-Azure-FFE3A9?style=for-the-badge&logo=academia&logoColor=black" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FFE3A9?style=for-the-badge&logo=postman&logoColor=black" />
 </p>
+
+<img src="https://developer.garmin.com/connect-iq/resources/programmers-guide/smart-monkey.png"/>
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjlna2c2ZG40dWowZWhzNnZ5NXVxOThjN3Zsa3MzeG00NWh4bWZzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ThVBdkPArGvauta28t/giphy.gif" alt="Monkey Developer" width="250" />
